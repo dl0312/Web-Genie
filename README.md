@@ -53,3 +53,7 @@
 ## Logo Maker
 - [hatchful](https://hatchful.shopify.com/)
 
+## Data Visualization
+- [d3.js](https://d3js.org/)
+- [react-vis](https://d3js.org/)
+- [Recharts](http://recharts.org/en-US/)
