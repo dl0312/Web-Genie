@@ -17,21 +17,26 @@
 - 🎥[5 Website Design Hints. Web Design Tutorial For Beginners](https://www.youtube.com/watch?v=j2G1IUpRiPY)
 
 ## Icon
-- [Emojipedia](https://emojipedia.org/)
-- [Font Awesome](https://fontawesome.com/)
+- [📙 EmojipediaEmojipedia](https://emojipedia.org/) - 😃 Home of Emoji Meanings 💁👌🎍😍
+- [Font Awesome](https://fontawesome.com/) - the web's most popular icon set and toolkit
 - [CSS ICON](https://cssicon.space/#/)
 - [Ionicons](https://ionicons.com/)
-
-## Image
 - [FLATICON](https://www.flaticon.com)
 
-## UI Design
+## Image Resource
+- [GIPHY](https://giphy.com/) - Search All the GIFs & Make Your Own Animated GIF
+- [Imgur](https://imgur.com/)
+
+## Pre-built UI Component
 - [Ant Design](https://ant.design/)
+- [Bootstrap](https://getbootstrap.com/)
 
 ## Color
 - [Coolors.co](https://coolors.co)
 - [HTML Color Names](https://www.w3schools.com/colors/colors_names.asp)
 - [BrandColors](https://brandcolors.net/) - The biggest collection of official brand color codes around.
+- [Flat UI colors](https://flatuicolors.com/) - concepted color palettes
+- [Color.review](https://color.review/) - Colors that look and work great for everyone
 
 ## Gradient
 - [uiGradients](https://uigradients.com/)
