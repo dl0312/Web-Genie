@@ -10,20 +10,20 @@
 
 # Genie's choice
 
-## Design
+## Design Concept
 ### Websites
 - 📜[Awwwards](https://www.awwwards.com/)
 ### Videos
 - 🎥[5 Website Design Hints. Web Design Tutorial For Beginners](https://www.youtube.com/watch?v=j2G1IUpRiPY)
 
 ## Icon
-- [📙 EmojipediaEmojipedia](https://emojipedia.org/) - 😃 Home of Emoji Meanings 💁👌🎍😍
+- [Emojipedia](https://emojipedia.org/) - 😃 Home of Emoji Meanings 💁👌🎍😍
 - [Font Awesome](https://fontawesome.com/) - the web's most popular icon set and toolkit
 - [CSS ICON](https://cssicon.space/#/)
 - [Ionicons](https://ionicons.com/)
 - [FLATICON](https://www.flaticon.com)
 
-## Image Resource
+## 🖼️ Image Resource
 - [GIPHY](https://giphy.com/) - Search All the GIFs & Make Your Own Animated GIF
 - [Imgur](https://imgur.com/)
 
@@ -31,7 +31,7 @@
 - [Ant Design](https://ant.design/)
 - [Bootstrap](https://getbootstrap.com/)
 
-## Color
+## 🌈 Color
 - [Coolors.co](https://coolors.co)
 - [HTML Color Names](https://www.w3schools.com/colors/colors_names.asp)
 - [BrandColors](https://brandcolors.net/) - The biggest collection of official brand color codes around.
@@ -42,23 +42,28 @@
 - [uiGradients](https://uigradients.com/)
 - [cssgradient.io](https://cssgradient.io/)
 
-## Box Shadow
+## 📦 Box Shadow
 - [16 Box Shadows to Save Your Time](http://cssdeck.com/labs/16-box-shadows-to-save-your-time/)
 
 ## CSS Grid
 - [CSS Grid Layout Guidebook](https://uid.gitbook.io/css-grid)
 
-## Font
+## 🗚 Font
 - [Google Fonts](https://fonts.google.com)
 
 ## Image Edit Utility
 - [Photopea](https://www.photopea.com/) - Photoshop online
 - [remove.bg](https://www.remove.bg/) - Remove Background from photo automatically
 
-## Logo Maker
+## 🎭 Logo Maker
 - [hatchful](https://hatchful.shopify.com/)
 
-## Data Visualization
+## 📊 Data Visualization
 - [d3.js](https://d3js.org/)
 - [react-vis](https://d3js.org/)
 - [Recharts](http://recharts.org/en-US/)
+- [billboard.js](https://naver.github.io/billboard.js/) - Re-usable, easy interface JavaScript chart library, based on D3 v4+.
+
+## 💫 Animation
+- [GSAP](https://greensock.com/gsap) - the standard for JavaScript HTML5 animation
+- [lax.js](https://github.com/alexfoxy/laxxx) - Simple & light weight scroll animation library
