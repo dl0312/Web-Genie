@@ -28,8 +28,12 @@
 - [Imgur](https://imgur.com/)
 
 ## Pre-built UI Component
-- [Ant Design](https://ant.design/)
-- [Bootstrap](https://getbootstrap.com/)
+- [Ant Design](https://ant.design/) - A design system with values of Nature and Determinacy for better user experience of enterprise application
+- [Bootstrap](https://getbootstrap.com/) - Build responsive, mobile-first projects on the web with the world’s most popular front-end component library.
+- [Tippy.js](https://github.com/atomiks/tippyjs) - Highly customizable tooltip and popover library
+  - [Tippy.js for React](https://github.com/atomiks/tippy.js-react) - The complete tooltip and popover solution for React apps
+
+
 
 ## 🌈 Color
 - [Coolors.co](https://coolors.co)
@@ -67,3 +71,9 @@
 ## 💫 Animation
 - [GSAP](https://greensock.com/gsap) - the standard for JavaScript HTML5 animation
 - [lax.js](https://github.com/alexfoxy/laxxx) - Simple & light weight scroll animation library
+
+## 👨‍🔬Testing
+- [JEST](https://github.com/facebook/jest) - 🃏 Delightful JavaScript Testing
+- [react-testing-library](https://github.com/testing-library/react-testing-library) - 🐐 Simple and complete React DOM testing utilities that encourage good testing practices.
+  - 📜[벨로퍼트와 함께하는 리액트 테스팅](https://velog.io/@velopert/series/react-testing)
+
