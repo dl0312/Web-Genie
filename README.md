@@ -33,24 +33,21 @@
 - [Tippy.js](https://github.com/atomiks/tippyjs) - Highly customizable tooltip and popover library
   - [Tippy.js for React](https://github.com/atomiks/tippy.js-react) - The complete tooltip and popover solution for React apps
 
-
-
 ## 🌈 Color
 - [Coolors.co](https://coolors.co)
 - [HTML Color Names](https://www.w3schools.com/colors/colors_names.asp)
 - [BrandColors](https://brandcolors.net/) - The biggest collection of official brand color codes around.
 - [Flat UI colors](https://flatuicolors.com/) - concepted color palettes
 - [Color.review](https://color.review/) - Colors that look and work great for everyone
+- Gradient
+  - [uiGradients](https://uigradients.com/)
+  - [cssgradient.io](https://cssgradient.io/)
 
-## Gradient
-- [uiGradients](https://uigradients.com/)
-- [cssgradient.io](https://cssgradient.io/)
-
-## 📦 Box Shadow
-- [16 Box Shadows to Save Your Time](http://cssdeck.com/labs/16-box-shadows-to-save-your-time/)
-
-## CSS Grid
-- [CSS Grid Layout Guidebook](https://uid.gitbook.io/css-grid)
+## CSS
+- 📦 Box Shadow
+  - [16 Box Shadows to Save Your Time](http://cssdeck.com/labs/16-box-shadows-to-save-your-time/)
+- Grid Layout
+  - [CSS Grid Layout Guidebook](https://uid.gitbook.io/css-grid)
 
 ## 🗚 Font
 - [Google Fonts](https://fonts.google.com)
@@ -68,9 +65,22 @@
 - [Recharts](http://recharts.org/en-US/)
 - [billboard.js](https://naver.github.io/billboard.js/) - Re-usable, easy interface JavaScript chart library, based on D3 v4+.
 
-## 💫 Animation
+## 🎬 Animation
 - [GSAP](https://greensock.com/gsap) - the standard for JavaScript HTML5 animation
 - [lax.js](https://github.com/alexfoxy/laxxx) - Simple & light weight scroll animation library
+- [scenejs](https://github.com/daybrush/scenejs) - 🎬 Scene.js is JavaScript & CSS timeline-based animation library
+
+## 🚗 Deploy
+- [ZEIT](https://zeit.co/) - The Global Serverless Platform
+- [Netlify](https://www.netlify.com/) - One workflow. From local development to global deployment.
+- [heroku](https://www.heroku.com/) - Developers, teams, and businesses of all sizes use Heroku to deploy, manage, and scale apps.
+
+## 👷‍♂️ CMS(Contents Management System)
+- [GraphCMS](https://graphcms.com/)
+- [Xpress Engine](https://www.xpressengine.com/)
+
+## 🔧 Database Tool
+- [Prisma](https://www.prisma.io/) - Prisma replaces traditional ORMs and simplifies database workflows
 
 ## 👨‍🔬Testing
 - [JEST](https://github.com/facebook/jest) - 🃏 Delightful JavaScript Testing
