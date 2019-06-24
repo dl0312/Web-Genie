@@ -6,7 +6,7 @@
 
 ## What is this repo?
 
-🧞 Web Genie recommend website that upgrade your productivity on web programming
+> 🧞 Web Genie recommend website that upgrade your productivity on web programming
 
 # Genie's choice
 
@@ -16,7 +16,12 @@
 ### Videos
 - 🎥[5 Website Design Hints. Web Design Tutorial For Beginners](https://www.youtube.com/watch?v=j2G1IUpRiPY)
 
-## Icon
+## 🌀 React
+- [React](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [Redux](https://github.com/reduxjs/redux) - Predictable state container for JavaScript apps
+- [MobX](https://github.com/mobxjs/mobx) - Simple, scalable state management
+
+## 💗 Icon
 - [Emojipedia](https://emojipedia.org/) - 😃 Home of Emoji Meanings 💁👌🎍😍
 - [Font Awesome](https://fontawesome.com/) - the web's most popular icon set and toolkit
 - [CSS ICON](https://cssicon.space/#/)
@@ -27,13 +32,13 @@
 - [GIPHY](https://giphy.com/) - Search All the GIFs & Make Your Own Animated GIF
 - [Imgur](https://imgur.com/)
 
-## Pre-built UI Component
+## 🧱 Pre-built UI Component
 - [Ant Design](https://ant.design/) - A design system with values of Nature and Determinacy for better user experience of enterprise application
 - [Bootstrap](https://getbootstrap.com/) - Build responsive, mobile-first projects on the web with the world’s most popular front-end component library.
 - [Tippy.js](https://github.com/atomiks/tippyjs) - Highly customizable tooltip and popover library
   - [Tippy.js for React](https://github.com/atomiks/tippy.js-react) - The complete tooltip and popover solution for React apps
 
-## 🌈 Color
+## 🎨 Color
 - [Coolors.co](https://coolors.co)
 - [HTML Color Names](https://www.w3schools.com/colors/colors_names.asp)
 - [BrandColors](https://brandcolors.net/) - The biggest collection of official brand color codes around.
@@ -43,7 +48,7 @@
   - [uiGradients](https://uigradients.com/)
   - [cssgradient.io](https://cssgradient.io/)
 
-## CSS
+## 👨‍🎨 CSS
 - 📦 Box Shadow
   - [16 Box Shadows to Save Your Time](http://cssdeck.com/labs/16-box-shadows-to-save-your-time/)
 - Grid Layout
@@ -52,7 +57,7 @@
 ## 🗚 Font
 - [Google Fonts](https://fonts.google.com)
 
-## Image Edit Utility
+## ✂ Image Edit Utility
 - [Photopea](https://www.photopea.com/) - Photoshop online
 - [remove.bg](https://www.remove.bg/) - Remove Background from photo automatically
 
