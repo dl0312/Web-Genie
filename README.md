@@ -19,7 +19,9 @@
 ## 🌀 React
 - [React](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [Redux](https://github.com/reduxjs/redux) - Predictable state container for JavaScript apps
+  - 📜[Redux 를 통한 React 어플리케이션 상태 관리](https://velopert.com/3365)
 - [MobX](https://github.com/mobxjs/mobx) - Simple, scalable state management
+  - 📜[Redux 또는 MobX 를 통한 상태 관리](https://velog.io/@velopert/series/redux-or-mobx)
 
 ## 💗 Icon
 - [Emojipedia](https://emojipedia.org/) - 😃 Home of Emoji Meanings 💁👌🎍😍
