@@ -42,6 +42,7 @@
 - [Bootstrap](https://getbootstrap.com/) - Build responsive, mobile-first projects on the web with the world’s most popular front-end component library.
 - [Tippy.js](https://github.com/atomiks/tippyjs) - Highly customizable tooltip and popover library
   - [Tippy.js for React](https://github.com/atomiks/tippy.js-react) - The complete tooltip and popover solution for React apps
+- [downshift-js](https://github.com/downshift-js/downshift) - 🏎 Primitive to build simple, flexible, WAI-ARIA compliant enhanced input React components
 
 ## 🎨 Color
 - [Coolors.co](https://coolors.co)
@@ -91,6 +92,11 @@
 
 ## 🔧 Database Tool
 - [Prisma](https://www.prisma.io/) - Prisma replaces traditional ORMs and simplifies database workflows
+
+## 👨‍🏫 Online Lecture
+- [inflearn](https://www.inflearn.com/)
+- [Frontend Masters](https://frontendmasters.com/)
+- [생활코딩](https://www.opentutorials.org/)
 
 ## 👨‍🔬Testing
 - [JEST](https://github.com/facebook/jest) - 🃏 Delightful JavaScript Testing
